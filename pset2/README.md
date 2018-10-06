@@ -164,10 +164,9 @@ Insert about me
 
 ---
 ### Abdelwahab Oufkir
-<img src='' width='150'>
+<img src='images/Abdel.jpg' width='150'>
 
-Insert about me
-
+When there is a 'Why', almost any 'How' is possible
 ---
 ### Jennifer Perez
 <img src='' width='150'>
